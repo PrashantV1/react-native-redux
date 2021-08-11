@@ -1,4 +1,4 @@
-# submitformwithredux
+# react-native redux
 
 Page 1 :
 Validation 
